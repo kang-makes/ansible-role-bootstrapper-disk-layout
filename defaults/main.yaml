@@ -1,0 +1,3 @@
+---
+root_target: /target
+force_zfs: false
